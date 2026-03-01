@@ -7,7 +7,6 @@
 
 - 🎓 B.Tech CSE Student
 - 🤖 Building AI & Machine Learning based systems
-- 🌕 Working on Lunar Landslide Detection using Chandrayaan datasets
 - 💻 Full-Stack Developer (React | Node | MongoDB )
 - 🚀 Passionate about Space-Tech, Research & Startups
 - 🌍 I believe in building tech that creates real-world impact
