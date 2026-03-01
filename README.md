@@ -12,6 +12,7 @@
 - 🚀 Passionate about Space-Tech, Research & Startups
 - 🌍 I believe in building tech that creates real-world impact
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhakt-m/) 
 
